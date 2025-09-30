@@ -1,6 +1,6 @@
 # 🌉 Intern Bridge  
 
-Intern Bridge is a **modern full-stack web application** designed to provide a seamless experience for **students, mentors, and recruiters**.  
+Intern Bridge is a **modern full-stack,AI based web application** designed to provide a seamless experience for **students, mentors, and recruiters**.  
 It integrates role-based dashboards, authentication, notifications, and placement opportunities within a **responsive and scalable platform**.  
 
 ---
